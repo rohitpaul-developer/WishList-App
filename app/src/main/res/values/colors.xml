@@ -9,6 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="app_bar_color">#DD1E3E</color>
     <color name="green">#26de18</color>
-    <color name="home_screen_color">#f2fa02</color>
+    <color name="home_screen_color">#DB2C0A</color>
     <color name="add_edit_screen_color">#f2fa02</color>
 </resources>
